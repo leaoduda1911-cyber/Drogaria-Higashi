@@ -19,15 +19,15 @@ O **Drogaria Higashi** é um sistema completo desenvolvido para a gestão e orga
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Front-end:** 
-  - `HTML5` - Estruturação das páginas
-  - `CSS3` - Estilização e layout responsivo
-- **Back-end:** 
-  - `Java` - Lógica de negócios e comunicação com a base de dados
-- **Banco de Dados:** 
-  - `MySQL` - Armazenamento relacional de produtos, usuários e movimentações
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+</p>
 
 ---
+
 
 ## 🚀 Funcionalidades
 
